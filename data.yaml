@@ -1,0 +1,6 @@
+train: C:\Users\muska\Desktop\Automatic-Number-Plate-Recognition--ANPR--2\dataset\train\images
+val: C:\Users\muska\Desktop\Automatic-Number-Plate-Recognition--ANPR--2\dataset\valid\images
+test: C:\Users\muska\Desktop\Automatic-Number-Plate-Recognition--ANPR--2\dataset\test\images
+
+nc: 1
+names: ['licence']
